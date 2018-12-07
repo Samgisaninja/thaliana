@@ -1,0 +1,9 @@
+Package: com.samgisaninja.thaliana
+Name: thaliana
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Control Center module for Firebird emulator
+Maintainer: Sam Gardner
+Author: Sam Gardner
+Section: Control Center (Modules)
