@@ -1,6 +1,6 @@
 Package: com.samgisaninja.thaliana
 Name: thaliana
-Depends: mobilesubstrate, com.oppa334.ccsupport
+Depends: mobilesubstrate, com.opa334.ccsupport
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Control Center module for Firebird emulator
